@@ -90,7 +90,7 @@ def display_metrics(user_metrics):
 def main():
     # Пути к файлу README.md
     paths = [
-        r"C:\Users\shinsetsu\Documents\первой важности\репозитории\allproject\README.md",
+        r""C:\Users\Student\Desktop\allproject\allproject-1\README.md"",
         "README.md",
         "./README.md"
     ]
