@@ -14,7 +14,7 @@ class ProjectMetricsAnalyzer:
             'tasks': {'in_progress': [], 'completed': [], 'upcoming': []}
         }
         self.valid_paths = [
-            r"C:\Users\Student\Desktop\allproject\allproject-1\README.md",
+            r"C:\Users\mtosk\Desktop\репки\artemproject\allproject-1\README.md",
             "README.md",
             "./README.md"
         ]
